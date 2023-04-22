@@ -7,7 +7,7 @@ At this one you can add tasks to the list alco mark them if they are done and de
 
 ![gif](Images/gifvid.gif)
 
-###TECHNOLOGIES USED:
+### TECHNOLOGIES USED:
 - HTML
 - JavaScript
 - CSS
