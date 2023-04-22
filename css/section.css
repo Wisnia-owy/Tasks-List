@@ -1,7 +1,7 @@
 .section {
     background-color: white;
     box-shadow: 0 0 10px whitesmoke;
-    margin: 20px 0;
+    margin: 10px 0;
     }
     
     .section__header {
@@ -13,5 +13,5 @@
     
     
     .section__body {
-        padding: 20px;
+        padding: 25px;
         }
